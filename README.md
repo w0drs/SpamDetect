@@ -1,4 +1,7 @@
 # SpamDetector  
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
 **Система обнаружения спам-сообщений на основе машинного обучения**  
 Веб-приложение для классификации текстовых (английских) сообщений на спам/не спам.
 
